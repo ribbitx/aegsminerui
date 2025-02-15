@@ -30,7 +30,7 @@ This Python application provides a user interface for managing the Aegisum Miner
 4. Run the script:
 
     ```bash
-    python miner_ui.py
+    python main.py
     ```
 
 ## Usage
